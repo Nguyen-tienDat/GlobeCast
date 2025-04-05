@@ -1,0 +1,1 @@
+// Hằng số (màu sắc, kích thước, API key)

@@ -1,0 +1,1 @@
+//Model cho phiên họp (online/offline)

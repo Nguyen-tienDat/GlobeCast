@@ -1,0 +1,1 @@
+//Xử lí diịch thuật (GG Translate API)

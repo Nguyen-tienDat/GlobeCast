@@ -4,6 +4,28 @@ class Assets {
 
   static const String generatedAssets = 'lib/generated/assets.dart';
   static const String libMain = 'lib/main.dart';
+  static const String modelsSessions = 'lib/models/sessions.dart';
+  static const String modelsTask = 'lib/models/task.dart';
+  static const String modelsTranscript = 'lib/models/transcript.dart';
+  static const String modelsUser = 'lib/models/user.dart';
+  static const String providersSessionProvider = 'lib/providers/session_provider.dart';
+  static const String providersTaskProvidert = 'lib/providers/task_providert.dart';
+  static const String providersTranscriptProvider = 'lib/providers/transcript_provider.dart';
+  static const String screensHomeScreen = 'lib/screens/home_screen.dart';
+  static const String screensReportScreen = 'lib/screens/report_screen.dart';
+  static const String screensSessionScreen = 'lib/screens/session_screen.dart';
+  static const String screensTaskScreen = 'lib/screens/task_screen.dart';
+  static const String servicesFirebaseServices = 'lib/services/firebase_services.dart';
+  static const String servicesPdfGeneratorServices = 'lib/services/pdf_generator_services.dart';
+  static const String servicesServiceLocator = 'lib/services/service_locator.dart';
+  static const String servicesSpeechToTextServices = 'lib/services/speech_to_text_services.dart';
+  static const String servicesTranslationServices = 'lib/services/translation_services.dart';
   static const String servicesWebrtcServices = 'lib/services/webrtc_services.dart';
+  static const String utilsConstants = 'lib/utils/constants.dart';
+  static const String utilsRegexClassifier = 'lib/utils/regex_classifier.dart';
+  static const String utilsTimestamp = 'lib/utils/timestamp.dart';
+  static const String widgetsLoadingIndicator = 'lib/widgets/loading_indicator.dart';
+  static const String widgetsSubtitlesWidget = 'lib/widgets/subtitles_widget.dart';
+  static const String widgetsTaskCard = 'lib/widgets/task_card.dart';
 
 }

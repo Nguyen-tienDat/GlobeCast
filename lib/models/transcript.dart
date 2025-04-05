@@ -1,0 +1,1 @@
+// Model cho transcript (văn bản + timestamps)
